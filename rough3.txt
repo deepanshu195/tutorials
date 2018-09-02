@@ -1,1 +1,0 @@
-Git add filename  // to add a particular file
